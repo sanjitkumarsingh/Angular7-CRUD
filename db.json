@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "employee_name": "Steve singh",
+      "employee_salary": 75200,
+      "employee_age": "42"
+    },
+    {
+      "id": 2,
+      "employee_name": "Ranjit",
+      "employee_salary": 154000,
+      "employee_age": "29"
+    },
+    {
+      "id": 6,
+      "employee_name": "sanjit",
+      "employee_salary": "57000",
+      "employee_age": "27"
+    },
+    {
+      "id": 10,
+      "employee_name": "bajeed",
+      "employee_salary": "200000",
+      "employee_age": "40"
+    },
+    {
+      "id": 8,
+      "employee_name": "sanjit",
+      "employee_salary": "4512",
+      "employee_age": "12"
+    }
+  ]
+}
